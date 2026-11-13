@@ -21,6 +21,7 @@
 
 #### Frontend & Web Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Laravel 11](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,6 +29,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-ea580c?style=flat-square&logo=fastapi&logoColor=white)
 
 #### Interactive, 3D & Emerging Tech
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender_3D-F5792A?style=flat-square&logo=blender&logoColor=white)
@@ -54,9 +56,3 @@
 
 * ⚡ **OmniWatt Platform**  
   *Quality Assurance (QA) and API security endpoint testing for an AI camera-assisted power monitoring platform.*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeroHK&show_icons=true&theme=tokyonight&hide_border=true&title_color=f97316&icon_color=ea580c&text_color=cbd5e1" alt="Heddy's GitHub Stats" />
-</p>
